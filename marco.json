@@ -646,7 +646,14 @@
                     {
                         "id": "AR",
                         "name": "Argentina",
-                        "value": "8"
+                        "value": "1",
+                        "stores": [
+                            {
+                                "name": "Argentina ACME Store",
+                                "address": "Rivadavia 345, RГ­o Cuarto, CГіrdoba, Argentina",
+                                "website": "https://en.wikipedia.org/wiki/Acme_Corporation"
+                            }
+                        ]
                     },
                     {
                         "id": "BR",
